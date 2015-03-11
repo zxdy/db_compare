@@ -7,7 +7,7 @@
 3. thanks more to ruby, it makes possible to create dynamic class according to the table name which need to be compare, so all
    i need to do is just write them into config file.
 
-so this script helps me to make sure the data integration bewteen database , and i don't have write huge amount of sql to sync
+so this script helps me to make sure the data integration bewteen database , and i don't have to write huge amount of sql to sync
 up. 
 
 but the limitation is also obvious , the tables should have similar structure and some same columns, so that it can process 
