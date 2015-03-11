@@ -7,11 +7,11 @@
 3. thanks more to ruby, it makes possible to create dynamic class according to the table name which need to be compare, so all
    i need to do is just write them into config file.
 
-so this script helps me to make sure the data integration bewteen database , and i don't have to write huge amount of sql to sync
+so this script helps me to make sure the data integration bewteen databases , and i don't have to write huge amount of sql to sync
 up. 
 
 but the limitation is also obvious , the tables should have similar structure and some same columns, so that it can process 
 in one time. 
 
-just as i commented in the header, this is just demo for basic usage, it need more enhancement to be a common data base compare 
-tool
+just as i commented in the header, this is just demo for basic usage, it needs more enhancement to be a common data base compare 
+tool.
